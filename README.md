@@ -1,2 +1,2 @@
 # alterepo
-high load web app
+high load app
