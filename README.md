@@ -1,2 +1,2 @@
 # alterepo
-high load
+high
